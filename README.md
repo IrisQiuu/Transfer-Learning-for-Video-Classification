@@ -1,1 +1,1 @@
-# Transfer-Learning-for-Video-Classi-cation
+# Transfer-Learning-for-Video-Classification
